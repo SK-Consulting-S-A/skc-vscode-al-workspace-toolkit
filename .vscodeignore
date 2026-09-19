@@ -1,0 +1,10 @@
+src/**
+test/**
+tsconfig.json
+scripts/**
+node_modules/**
+*.vsix
+.gitignore
+.github/**
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
