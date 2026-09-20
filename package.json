@@ -237,7 +237,7 @@
     "publish": "node scripts/publish.js"
   },
   "devDependencies": {
-    "@types/node": "^24.0.0",
+    "@types/node": "^26.6.1",
     "@types/vscode": "^1.107.0",
     "@vscode/vsce": "^3.9.2",
     "esbuild": "^0.28.1",
